@@ -17,8 +17,8 @@ We aim to create a model that can detect if a person is depressed or not based o
 ### Dataset Description:
 - Number of rows: 348k
 - Number of columns: 2
-- Columns Description (meaning):
-- Number of Missing values:
+- Columns Description (meaning): Text(Pulled from reddit) and class (Suicide or not)
+- Number of Missing values: 0
 
 
 ### Dataset Link: 
