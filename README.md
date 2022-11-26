@@ -1,33 +1,22 @@
-# Capstone_Proposal
+ Sign Language Detaction from Images
 
-## **Please edit this README.md file based on your Capstone project idea.**
+Rawan Alhalwan
+Hadeel Aldhafiri
+Alanoud Alrashed
 
-### Project Title:
-Write your Capstone Project title.
-
-
-### Group Members:
-- First Member
-- Second Member
-- Third Member
-
-### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
-
-### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
+Objectives:
+To recognition Sign Language from images the scope will latter defined
 
 
-### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
-
-### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+Dataset Description:
+The training data set contains 87,000 images which are 200x200 pixels. 
+There are 29 classes, of which 26 are for the letters A-Z and 3 classes for SPACE, DELETE and NOTHING.
 
 
-## Final Deliverables:
-- README.md file.
-- **Due Date: Sat, 26 Nov, at 09:00 p.m.**
+Dataset Link:
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
+
+
+The expected (Machine learning / Deep Learning) Algorithms:
+Neural Networks
