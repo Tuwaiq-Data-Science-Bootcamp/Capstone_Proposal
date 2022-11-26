@@ -1,33 +1,33 @@
 # Capstone_Proposal
 
-## **Please edit this README.md file based on your Capstone project idea.**
-
 ### Project Title:
-Write your Capstone Project title.
-
+Maintenance help prediction 
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Faisal Alqahtani
+- Rawabe Ebrahim
+- Dalal Aldulim
+- Khalid Alruwaidhan
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+Initially, we have two goals:
+- Predict devices that need to be replace.
+- Increase Man power according to zones or area
+
+The objectives:
+- See how many tickets were opened in the last month on the device?
+-  
 
 ### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
+- Number of rows: 500,000
+- Number of columns: 27 col
+- Columns Description (meaning): 
+- Number of Missing values: empty
 
 
 ### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
+For security reasons there is no link
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
 Write the algorithms that you will fit with your proposed solution.
 
-
-## Final Deliverables:
-- README.md file.
-- **Due Date: Sat, 26 Nov, at 09:00 p.m.**
