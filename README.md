@@ -8,7 +8,6 @@ Social Depression Tracker
 ### Group Members:
 - Yasser AlOmar
 - Khalid Alghamdy
-- Razan Altamimi
 - Meshari Alqahtani
 
 ### Objectives:
