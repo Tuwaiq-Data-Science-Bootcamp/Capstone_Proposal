@@ -2,7 +2,7 @@
 
 
 ### Project Title:
-Suicide and Depression Detection
+Social Depression Tracker
 
 
 ### Group Members:
@@ -12,7 +12,7 @@ Suicide and Depression Detection
 - Meshari Alqahtani
 
 ### Objectives:
-We aim to create a model that can detect if a person is depressed or not. We hope this can be used to help psychiatrists correctly classify a patient's mental health.
+We aim to create a model that can detect if a person is depressed or not based on their text patterns. Our goal is for this model to be used by psychiatry clinics to track a patient's social media and provide a more accurate psychiatric evaluation.
 
 ### Dataset Description:
 - Number of rows: 348k
