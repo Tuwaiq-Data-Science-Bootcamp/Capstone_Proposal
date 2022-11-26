@@ -20,7 +20,7 @@ The objectives:
 
 ### Dataset Description:
 - Number of rows: 500,000
-- Number of columns: 27 col
+- Number of columns: 27 col aprox
 - Columns Description (meaning): 
 - Number of Missing values: empty
 
@@ -29,5 +29,6 @@ The objectives:
 For security reasons there is no link
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+- RandomForestClassifier
+- Naive Bayes
 
