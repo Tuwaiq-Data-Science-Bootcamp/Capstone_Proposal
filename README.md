@@ -3,31 +3,22 @@
 ## **Please edit this README.md file based on your Capstone project idea.**
 
 ### Project Title:
-Write your Capstone Project title.
-
-
+brain tumor detection
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Arwa
+- Yara 
+- Njoud
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+it's a system that helps the health field to detect the tumore based on images 
 
 ### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
-
-
+- IMAGES
 ### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
-
+**Note:**
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
-
-
+CNN algorithm 
 ## Final Deliverables:
 - README.md file.
 - **Due Date: Sat, 26 Nov, at 09:00 p.m.**
