@@ -1,33 +1,29 @@
 # Capstone_Proposal
 
-## **Please edit this README.md file based on your Capstone project idea.**
 
 ### Project Title:
-Write your Capstone Project title.
+Social Depression Tracker
 
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Yasser AlOmar
+- Khalid Alghamdy
+- Meshari Alqahtani
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+We aim to create a model that can detect if a person is depressed or not based on their text patterns. Our goal is for this model to be used by psychiatry clinics to track a patient's social media and provide a more accurate psychiatric evaluation.
 
 ### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
+- Number of rows: 348k
+- Number of columns: 2
+- Columns Description (meaning): Text(Pulled from reddit) and class (Suicide or not)
+- Number of Missing values: 0
 
 
 ### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
+https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+Deep Learning / Natural Language Processing.
 
 
-## Final Deliverables:
-- README.md file.
-- **Due Date: Sat, 26 Nov, at 09:00 p.m.**
