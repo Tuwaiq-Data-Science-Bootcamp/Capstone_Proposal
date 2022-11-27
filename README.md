@@ -1,33 +1,27 @@
 # Capstone_Proposal
 
-## **Please edit this README.md file based on your Capstone project idea.**
 
 ### Project Title:
-Write your Capstone Project title.
+Language Voice Identification
 
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Ghadah Alabduljabbar
+- Nada Alosaimi
+- Shahad Alsaif
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+Identifying the spoken language by people
 
 ### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
+Audio dataset in multiple languages
+
+
 
 
 ### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
+http://bark.phon.ioc.ee/voxlingua107/
 
 ### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+-Deep learning algorithms[CNN,RNN,CRNN]
 
-
-## Final Deliverables:
-- README.md file.
-- **Due Date: Sat, 26 Nov, at 09:00 p.m.**
