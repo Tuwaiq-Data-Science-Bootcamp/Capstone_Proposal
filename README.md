@@ -3,31 +3,42 @@
 ## **Please edit this README.md file based on your Capstone project idea.**
 
 ### Project Title:
-Write your Capstone Project title.
+**Saudi jobs resume analysis**
 
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Asma Almalki
+- Huda alanazi
+- Ahad Almutairi
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+**Predict the effectivness of a resume in landing a job in Saudi arabia **
 
-### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
+**Predections depends on:**
+
+-Age
+-Sex
+-City
+
+-Major
+-Eduvation Degree
+-GPA
+-univeristy name
+-graduation date
+
+**Finally the system will give recomendation to enhance the resume**
 
 
 ### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
 
-### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+We will combine **two datasets:
+1-unemployed
+https://od.data.gov.sa/Data/ar/dataset/job_seeker-2021
+2-employed
+https://od.data.gov.sa/Data/ar/dataset/dorob-2019-2020
 
 
+**
 ## Final Deliverables:
 - README.md file.
 - **Due Date: Sat, 26 Nov, at 09:00 p.m.**
