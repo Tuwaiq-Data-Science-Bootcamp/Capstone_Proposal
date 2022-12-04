@@ -1,33 +1,22 @@
-# Capstone_Proposal
-
-## **Please edit this README.md file based on your Capstone project idea.**
-
-### Project Title:
-Write your Capstone Project title.
+# Autistic Detection
 
 
 ### Group Members:
-- First Member
-- Second Member
-- Third Member
+- Ahad Almutairi
+- Huda Alanazi
+- Asma Almalki
 
 ### Objectives:
-Write your main goal behind this project and the objectives that you need to achieve your goal.
+We aim to create a model that can detect if a person is autistic or not based on facial images.
 
 ### Dataset Description:
-- Number of rows:
-- Number of columns:
-- Columns Description (meaning):
-- Number of Missing values:
+The ‬‬ ‭‭dataset ‬‬‬consists of 4 folders named train, test, and valid. All the folders are filled with ‬‬‬autism and non-‬‬autism ‭ ‬patient’s ‭ ‬image. ‭ ‬In ‭ ‬this dataset, ‭ ‭the train folder has 1268 ‬‬‬autism-affected images and 1268 non-autism images. In the valid folder, the autism ‬‬‬and non-autism both have 50 images in each sub-folder. Finally, there are 150 files ‬‬‬of images in the test folders. All the images are in jpg format. The total collection of all images is almost 5874. We are going to work on this dataset and implement our model with this dataset using different folders.
 
 
 ### Dataset Link: 
-**Note:** you have to choose a real dataset that needs to clean and preprocess.
+https://www.kaggle.com/datasets/imrankhan77/autistic-children-facial-data-set
 
-### The expected (Machine learning / Deep Learning) Algorithms:
-Write the algorithms that you will fit with your proposed solution.
+### Proposed Algorithm:
+CNN
 
 
-## Final Deliverables:
-- README.md file.
-- **Due Date: Sat, 26 Nov, at 09:00 p.m.**
